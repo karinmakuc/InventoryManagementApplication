@@ -1,0 +1,6 @@
+@InventoryManagementApplication.Server_HostAddress = http://localhost:5196
+
+GET {{InventoryManagementApplication.Server_HostAddress}}/api/account/
+Accept: application/json
+
+###
